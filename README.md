@@ -1,2 +1,2 @@
 # weather_station
-local weather station with i2c sensors, analog sensors, and microcontrollers
+local weather station with i2c bus sensors, analog sensors, and microcontrollers
